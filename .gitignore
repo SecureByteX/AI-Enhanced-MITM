@@ -1,29 +1,4 @@
-# Ignore datasets
-*.csv
-*.xlsx
-*.xls
-*.json
-*.zip
-*.rar
-
-# Ignore Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Ignore Java compiled files
-*.class
-*.jar
-
-# Ignore notebooks
-*.ipynb_checkpoints
-
-# Ignore temporary files
 *.log
-*.tmp
-*.bak
-
-# Ignore system files
-.DS_Store
-Thumbs.db
+env/
+__pycache__/
+*.pcap
